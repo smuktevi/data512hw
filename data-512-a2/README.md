@@ -5,7 +5,7 @@ The goal of this assignment is to explore the concept of bias through data on Wi
 
 Follow the Python Notebook that can be found [here](https://github.com/smuktevi/data512hw/blob/main/data-512-a2/hcds-a2-bias.ipynb) to reproduce the same results of the analysis. Detailed steps on how the data was collected, transformed and visually analysed can be found in the same notebook.
 
-## Data Sources
+## Sources
 
 This repository uses two data sources.
 
