@@ -1,7 +1,7 @@
 # A2: Bias in Data
 
 ## Goal
-The goal of this assignment is to construct, analyze, and publish a dataset of monthly traffic on the English Wikipedia application from January 1, 2008 through August 30, 2021.
+The goal of this assignment is to explore the concept of bias through data on Wikipedia articles - specifically, articles on political figures from a variety of countries.
 
 Follow the Python Notebook that can be found [here](https://github.com/smuktevi/data512hw/blob/main/data-512-a2/hcds-a2-bias.ipynb) to reproduce the same results of the analysis. Detailed steps on how the data was collected, transformed and visually analysed can be found in the same notebook.
 
